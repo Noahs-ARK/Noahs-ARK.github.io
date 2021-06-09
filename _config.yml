@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Noah's ARK"
   avatar           : "ARK-logo-UW.png"
-  bio              : "Noah's ARK is an informal collection of researchers within the <a href="https://nlp.washington.edu">Natural Language Processing</a> group at the <a href="https://www.uw.edu">University of Washington</a> and formerly at <a href="https://www.cmu.edu">Carnegie Mellon University</a>'s <a href="https://lti.cs.cmu.edu">Language Technologies Institute>."
+  bio              : Noah's ARK is an informal collection of researchers within the <a href="https://nlp.washington.edu">Natural Language Processing</a> group at the <a href="https://www.uw.edu">University of Washington</a> and formerly at <a href="https://www.cmu.edu">Carnegie Mellon University</a>'s <a href="https://lti.cs.cmu.edu">Language Technologies Institute>.
   location         : # "Seattle"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
