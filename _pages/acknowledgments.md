@@ -11,7 +11,7 @@ ARK research has been/is supported since 2006 in part by:
 * [Army Research Office](http://www.arl.army.mil/www/default.cfm?page=29) through MURI grant
 W911NF-10-1-0533
 * [Berkman Faculty Development Fund](https://www.cmu.edu/proseed/proseed-seed-grants/berkman-faculty-development-fund.html) at CMU 
-* [DARPA](https://www.darpa.mil) through the [Computer Science Study Panel](https://cs2p.ida.org), CWC, DEFT, LORELEI, and MEMEX programs
+* [DARPA](https://www.darpa.mil) through the Computer Science Study Panel, CWC, DEFT, LORELEI, and MEMEX programs
 * [Facebook](https://facebook.com)
 * [Google](https://www.google.com) through faculty awards and a graduate fellowship to Hao Peng
 * [IARPA](https://www.iarpa.gov) through grant N10PC20222 and the MATERIAL and OSI programs
