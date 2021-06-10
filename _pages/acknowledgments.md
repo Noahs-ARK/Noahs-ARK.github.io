@@ -10,7 +10,7 @@ ARK research has been/is supported since 2006 in part by:
 * [Amazon](https://amazon.com)
 * [Army Research Office](http://www.arl.army.mil/www/default.cfm?page=29) through MURI grant
 W911NF-10-1-0533
-* Berkman Faculty Development Fund at CMU 
+* [Berkman Faculty Development Fund](https://www.cmu.edu/proseed/proseed-seed-grants/berkman-faculty-development-fund.html) at CMU 
 * [DARPA](https://www.darpa.mil) through the [Computer Science Study Panel](https://cs2p.ida.org), CWC, DEFT, LORELEI, and MEMEX programs
 * [Facebook](https://facebook.com)
 * [Google](https://www.google.com) through faculty awards and a graduate fellowship to Hao Peng
@@ -26,8 +26,9 @@ CAREER 1054319, 1211277, 1251131, 1330596, 1541025, 1562364, 1823547, and gradua
 * [Qatar National Research Fund](http://www.qnrf.org) through grant NPRP 08-485-1-083
 * [Q-Group](https://www.q-group.org/) 
 * [Sandia National Laboratories](http://www.sandia.gov) through a graduate fellowship to Kevin Gimpel
-* [Singapore Agency for Science, Technology, and Research](https://www.a-star.edu.sg/) through a graduate fellowship to Yanchuan Sim)
+* [Singapore Agency for Science, Technology, and Research](https://www.a-star.edu.sg/) through a graduate fellowship to Yanchuan Sim
 * [Sloan Foundation](https://sloan.org)
-* UW Faculty Innovation Award
+* [T-Mobile](https://www.t-mobile.com)
+* [UW Faculty Innovation Award](https://www.washington.edu/research/resources/funding-opportunities/the-university-of-washington-innovation-awards/)
 * [XSEDE](http://www.xsede.org)
 * [Yahoo](http://www.yahoo.com)
