@@ -2,6 +2,8 @@
 permalink: /acknowledgments/
 title: "Acknowledgments"
 author_profile: true
+redirect_from: 
+  - /acknowledgments/
 ---
 
 ARK research has been/is supported since 2006 in part by:
