@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Noah's ARK"
+title: "About Noah's ARK"
 author_profile: true
 redirect_from: 
   - /about/
