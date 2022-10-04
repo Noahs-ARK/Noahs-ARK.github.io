@@ -3,6 +3,11 @@ permalink: /people/
 title: "Researchers in Noah's ARK"
 author_profile: true
 ---
+
+<img src="images/ARK-2022a.jpg">
+
+<img src="images/ARK-2022b.jpg">
+
 Jump to:  <a href="#current">current members</a>, <a href="#phd">Ph.D. alumni</a>, <a href="#postdoc">postdoctoral alumni</a>, <a href="#masters">masters alumni</a>, and <a href="#other">other alumni</a>
 
 <h3><a href="#current"></a>Current Members</h3>
