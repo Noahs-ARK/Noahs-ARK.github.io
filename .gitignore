@@ -1,2 +1,8 @@
 _site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
 
+# Local Ruby/Bundler toolchain (installed per-machine, not committed)
+.bundle/
+vendor/
